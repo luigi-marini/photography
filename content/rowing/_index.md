@@ -1,6 +1,6 @@
 ---
 description: 
- Feel free to share the link to these albums with others. If you have any requests, questions, or feedback, please send me a [message](/contact/).
+ Feel free to share the link to these albums with others. If you have any requests, questions, or feedback, please send me a [message](photography/contact).
 
 keywords: [Oxford, Street, Sport]
 title: 'Summer Eights, Oxford, May 2026'
