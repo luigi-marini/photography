@@ -1,0 +1,9 @@
+---
+date: '2021-01-01'
+draft: false
+title: 'Photographs'
+featured: true
+private: true
+params:
+  sort_order: desc
+---

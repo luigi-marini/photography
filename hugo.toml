@@ -1,0 +1,17 @@
+baseURL = 'https://luigi-marini.github.io/photography'
+locale = 'en-us'
+title = 'Luigi Marini'
+theme = 'gallery'
+[params]
+  quality=70
+  defaultTheme = 'light'
+  [params.socialIcons]
+    instagram = "https://www.instagram.com/luigimariniphoto"
+    email = "mailto:luigi.marini.photo@gmail.com"
+#    mastodon = "test"
+#    pixelfed = "https://www.gram.social/luigimarini"
+    website = "https://luigi-marini.github.io"
+#    whatsapp = "test"
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
