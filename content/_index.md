@@ -1,5 +1,5 @@
 ---
-description: Welcome. For any comments or enquiries, please send me an [email](/contact), I'd love to hear from you.
+description: Welcome. For any comments or enquiries, please send me an [email](/photography/contact), I'd love to hear from you.
 #lastmod: 2023-07-05
 title: Luigi Marini · Photography
 resources:
