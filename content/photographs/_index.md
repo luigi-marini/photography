@@ -1,7 +1,7 @@
 ---
 date: '2026-01-01'
 draft: false
-title: 'Photographs / Types'
+title: 'Photographs · Types'
 featured: true
 private: true
 # params:
