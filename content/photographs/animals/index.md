@@ -1,7 +1,7 @@
 ---
 date: '2024-06-22'
 draft: false
-title: 'Animals, and Archaeology'
+title: 'Animals'
 featured: false
 private: false
 params:
