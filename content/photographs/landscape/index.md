@@ -1,7 +1,7 @@
 ---
 date: '2026-05-14'
 draft: false
-title: 'Landscapes and Architecture'
+title: 'Architecture and Landscapes'
 featured: false
 private: false
 params:
