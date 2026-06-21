@@ -1,7 +1,7 @@
 ---
 date: '2026-05-30'
 draft: false
-title: 'Street and People'
+title: 'People and Street'
 featured: false
 private: false
 params:

@@ -4,6 +4,6 @@ draft: false
 title: 'Still Lifes'
 featured: false
 private: false
-# params:
-#  sort_order: desc
+params:
+ sort_order: desc
 ---
