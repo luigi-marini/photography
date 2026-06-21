@@ -4,10 +4,11 @@ draft: false
 title: 'Selected Photographs'
 featured: false
 private: false
+weight: 1
 #params:
 # sort_order: desc
 resources:
-  - src: 0023-2020-11-07-151520-Luigi-Marini-0x0.webp
+  - src: 0058-2017-06-27-074426-Luigi-Marini-1600x1068_featured.webp
     params:
       cover: true
 ---
