@@ -2,8 +2,8 @@
 date: '2026-01-01'
 draft: false
 title: 'Photographs · Types'
-featured: true
-private: true
+featured: false
+private: false
 # params:
 #  sort_order: desc
 ---

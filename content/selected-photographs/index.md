@@ -2,8 +2,8 @@
 date: '2026-02-01'
 draft: false
 title: 'Selected Photographs'
-featured: true
-private: true
+featured: false
+private: false
 #params:
 # sort_order: desc
 resources:
