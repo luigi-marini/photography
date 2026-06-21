@@ -4,8 +4,8 @@ draft: false
 title: 'Selected Photographs'
 featured: true
 private: true
-params:
- sort_order: desc
+#params:
+# sort_order: desc
 #resources:
 #  - src: 
 #    params:
