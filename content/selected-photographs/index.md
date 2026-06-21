@@ -6,9 +6,8 @@ featured: true
 private: true
 #params:
 # sort_order: desc
-#resources:
-#  - src: 
-#    params:
-#      cover: true
-#      weight: 1
+resources:
+  - src: 0023-2020-11-07-151520-Luigi-Marini-0x0.webp
+    params:
+      cover: true
 ---
