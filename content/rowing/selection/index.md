@@ -1,6 +1,6 @@
 ---
 title: 'Selection'
-description: A shorter selection of favourite photographs from Summer Eights, Oxford, May 2026.
+description: A shorter selection of some favourite photographs from Summer Eights, Oxford, May 2026.
 date: '2026-05-30'
 draft: false
 weight: 1
