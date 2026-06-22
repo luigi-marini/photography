@@ -6,8 +6,8 @@ description: 'A sample of my photographs and interests in an ordered series.'
 featured: false
 private: false
 weight: 1
-#params:
-# sort_order: desc
+params:
+ sort_order: desc
 #resources:
 #  - src: 0058-2017-06-27-074426-Luigi-Marini-1600x1068_featured.webp
 #    params:
