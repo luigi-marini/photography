@@ -3,8 +3,8 @@ date: '2026-06-01'
 draft: false
 title: 'Selected Work'
 description: 'A sample of my photographs and interests in an ordered series.'
-featured: false
-private: false
+featured: true
+private: true
 weight: 1
 params:
  sort_order: desc
