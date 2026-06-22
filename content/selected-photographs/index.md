@@ -1,7 +1,7 @@
 ---
 date: '2026-06-01'
 draft: false
-title: 'Selected Photographs'
+title: 'Selected Series'
 featured: false
 private: false
 weight: 1
