@@ -6,5 +6,9 @@ description: 'Levellers Day, in Burford, Oxfordshire. Held in commemoration of t
 weight: 15
 #params:
 # sort_order: desc
+resources:
+  - src: 2026-05-09-121107-Luigi-Marini-1068x1600_featured
+    params:
+      cover: true
 ---
 
