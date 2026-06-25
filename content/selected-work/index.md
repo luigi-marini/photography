@@ -1,7 +1,7 @@
 ---
 date: '2026-06-01'
 draft: false
-title: 'Selected Work'
+title: 'Selected Works'
 description: 'A sample of my photographs and interests in an ordered series.'
 featured: true
 private: true
