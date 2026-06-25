@@ -6,5 +6,5 @@ featured: false
 private: false
 # params:
 #  sort_order: desc
-weight: 11
+weight: 12
 ---
